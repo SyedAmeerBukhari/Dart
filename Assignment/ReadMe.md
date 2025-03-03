@@ -19,14 +19,14 @@ This is a console-based task management system implemented in Dart. It allows us
 ### Steps to Run the Project
 1. Clone the Repository (if hosted on GitHub):
    ```sh
-   git clone https://github.com/your-username/task-management-system.git
+   git clone https://github.com/SyedAmeerBukhari/task-management-system.git
    cd task-management-system
    ```
 2. Run the Dart Program:
    - Navigate to the project directory where the Dart file is located.
    - Run the following command to execute the program:
      ```sh
-     dart run main.dart
+     dart run Assignment1.dart
      ```
 3. Using the Application:
    - Follow the on-screen menu to add, update, delete, or view tasks.
