@@ -8,7 +8,7 @@
       "name": "Dart & Flutter",
       "request": "launch",
       "type": "dart",
-      "program": "Pattern1.dart, Pattern2.dart, Pattern3.dart, Assignment1.dart"
+      "program": "Pattern1.dart, Pattern2.dart, Pattern3.dart, Assignment1.dart, task1.dart"
     }
   ]
 }
