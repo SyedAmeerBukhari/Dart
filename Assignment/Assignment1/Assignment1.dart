@@ -105,7 +105,7 @@ void main() {
     print('7. Toggle Task Status');
     print('8. Save Tasks');
     print('9. Load Tasks');
-    print('10. Search Tasks'); // New option for searching tasks
+    print('10. Search Tasks'); 
     print('11. Exit');
     stdout.write('Choose an option: ');
 
